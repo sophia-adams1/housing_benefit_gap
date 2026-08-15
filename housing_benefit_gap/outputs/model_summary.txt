@@ -1,0 +1,10 @@
+OLS estimation, Dep. Var.: gap
+Observations: 1,188
+Fixed-effects: region: 9
+Standard-errors: Clustered (region) 
+             Estimate Std. Error t value   Pr(>|t|)    
+time_numeric  17.4629    1.16219 15.0258 3.8024e-07 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+RMSE: 45.0     Adj. R2: 0.937362
+             Within R2: 0.602598
